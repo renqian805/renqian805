@@ -10,8 +10,6 @@
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaoqian29&show_icons=true&theme=dracula" />
 <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqian29&show_icons=true&layout=compact&theme=dracula"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xiaoqian29&theme=flat&column=7" alt="logo" height="160" align="middle" style="margin: auto; margin-bottom: 22px;" />
-
 <!--
 **lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
