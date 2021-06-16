@@ -6,6 +6,7 @@
 
 💼 major in computer science and robotics;
 
+![](https://komarev.com/ghpvc/?username=xiaoqian29)
 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaoqian29&show_icons=true&theme=dracula" />
 
