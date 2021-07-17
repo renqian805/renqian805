@@ -9,8 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=xiaoqian29)
 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaoqian29&show_icons=true&theme=dracula" />
-[![renqian805 github stats](https://github-readme-stats.vercel.app/api/top-langs?username=renqian805&layout=compact&theme=radical)](https://github.com/renqian805)
 
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=renqian805&layout=compact&theme=radical" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
