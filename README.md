@@ -1,17 +1,9 @@
 ### Hello, I'm xiaoqian 👋  
 
-<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 🌱 I’m currently learning vuejs and react;
 
 💼 major in computer science and robotics;
 
-![](https://komarev.com/ghpvc/?username=xiaoqian29)
-
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xiaoqian29&show_icons=true&theme=dracula" />
-
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=renqian805&layout=compact&theme=radical" />
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning webgl
